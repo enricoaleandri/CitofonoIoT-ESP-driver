@@ -1,7 +1,7 @@
 
 
 const char* ssid     = "Vodafone-23361200";
-const char* password = "224kzalkuxa6hp3";
+const char* password = "----------";
 
 //Accuracy settings
 MQTT mqtt;
